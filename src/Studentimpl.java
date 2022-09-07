@@ -44,6 +44,7 @@ public class Studentimpl {
             char firstChar = ref.getName().charAt(0);
             if (firstChar == 'n') {
                 iterator.remove();
+
                 flag = true;
 
             }
