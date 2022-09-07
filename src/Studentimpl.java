@@ -29,11 +29,6 @@ public class Studentimpl {
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-
-
-
-        //https://github.com/ABHINAV-0601/CollectionsFirstQues/blob/master/src/StudentImpl.java
-
     }
 
     public boolean removeByName(Set<Student> students) {
